@@ -1,4 +1,4 @@
-# AHK-SpamKey
+# AutoHotkey
 Simple AutoHotkey Scripts.
 
 If you want the script runnable without installing software, download the .exe file.
