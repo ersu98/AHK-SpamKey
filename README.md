@@ -3,7 +3,7 @@ Simple AutoHotkey scripts.
 
 If you want the scripts runnable without installing software, download the .exe files.
 
-If you want to edit the active keys and convert that to an .exe file you need to download AutoHotkey.
+If you want to edit the active keys you need to download AutoHotkey and the .ahk extention files.
 
 
-For information about mapping new active key in the spam scripts, go to (https://autohotkey.com/docs/KeyList.htm)
+For information about mapping new active key, go to (https://autohotkey.com/docs/KeyList.htm)
